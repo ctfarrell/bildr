@@ -39,6 +39,7 @@ const SomeImage = () => {
         <HelperImage src="/chakra-ui-logomark-colored.svg" label="Chakra UI" />
         <HelperImage src="/ts-logo-512.svg" label="TypeScript" />
       </Flex>
+      <Text>Testing if this works</Text>
     </Box>
   );
 };
